@@ -5,10 +5,10 @@ This repository contains a professional Power BI dashboard built using the Super
 
 **Source**: [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-
 ## Dashboard Preview
 
-![Dashboard Screenshot](Screenshot%202025-06-30%20185725.png)
+![Screenshot 2025-06-30 185725](https://github.com/user-attachments/assets/a9f9b079-c6c2-49c3-a195-7332cc58ef79)
+
 
  Dashboard Features
 
