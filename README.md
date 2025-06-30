@@ -18,3 +18,24 @@ This repository contains a professional Power BI dashboard built using the Super
 - 🔹 Monthly Profit Trends (January–December 2025)
 - 🔹 Category-wise Quantity and Amount Breakdown
 
+Key Insights
+
+- Printers and Bookcases are the most profitable sub-categories.
+
+- Credit Card and Net Banking dominate transactions.
+
+- Vrinda and Yogesh are top-spending customers.
+
+- Mid-year profit dips with a sharp recovery in Q4 2025.
+
+Tools Used
+
+- Power BI Desktop
+
+- Microsoft Excel
+
+- Power Query (for filtering & transformation)
+
+- GitHub (for version control)
+
+
